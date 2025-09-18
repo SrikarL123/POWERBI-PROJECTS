@@ -1,7 +1,7 @@
 
-📊 **Titanic Loss Dashboard**
+📊 ##Titanic Loss Dashboard
 
-## Problem It Solves
+ **Problem It Solves**
 
 The Titanic passenger manifest is a rich but complex dataset. Manually analyzing this raw data to understand the factors influencing survival is:
 
@@ -13,7 +13,7 @@ This dashboard solves these issues by transforming the historical data into an a
 
 ---
 
-## Key Insights from the Dashboard
+ **Key Insights from the Dashboard**
 
 * **Gender and Survival** → Gender was a primary factor in survival. [cite_start]A large majority of males did not survive, whereas a significantly higher number of females did[cite: 2, 3, 4, 5].
 * **Age and Survival** → The 20-29 age group had the highest number of casualties. [cite_start]Children (age 0-9), however, had a higher survival rate within their group[cite: 6, 27, 29, 31].
@@ -22,7 +22,7 @@ This dashboard solves these issues by transforming the historical data into an a
 
 ---
 
-## Why It’s Useful
+ **Why It’s Useful**
 
 This visualization serves several purposes:
 
@@ -32,7 +32,7 @@ This visualization serves several purposes:
 
 ---
 
-## Files Included in this Repository
+ **Files Included in this Repository**
 
 A project repository for this dashboard would typically include:
 
