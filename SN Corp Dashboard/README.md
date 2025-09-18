@@ -13,11 +13,11 @@ This dashboard solves this by consolidating complex sales data into an interacti
 
 🔹 **Key Insights from the Dashboard**
 
-* [cite_start]**Overall Performance KPIs** → At a glance, monitor core business health metrics, including Total Sales ($1.3M), Total Cost ($640.6K), and Total Profit ($627.0K)[cite: 5, 6, 7].
-* [cite_start]**Top Product Categories** → The bar chart clearly shows which products drive revenue, with **Bookcases** and **Chairs** being the consistent top performers in sales[cite: 8, 20, 47].
-* [cite_start]**Geographical Sales Analysis** → The map highlights key markets, showing that countries like **France**, the **United Kingdom**, and **Germany** are major sources of sales revenue[cite: 19, 35, 28].
-* [cite_start]**Sales Trends Over Time** → The line chart tracks the number of orders from 2017 to 2020, revealing a general upward trend and a significant peak in late 2020[cite: 54, 65, 66, 67, 68].
-* [cite_start]**Regional Performance** → The pie chart indicates that the **Central region** is responsible for the majority of the quantity sold, accounting for over 55%[cite: 25, 41, 43].
+* **Overall Performance KPIs** → At a glance, monitor core business health metrics, including Total Sales ($1.3M), Total Cost ($640.6K), and Total Profit ($627.0K)[cite: 5, 6, 7].
+* **Top Product Categories** → The bar chart clearly shows which products drive revenue, with **Bookcases** and **Chairs** being the consistent top performers in sales[cite: 8, 20, 47].
+* **Geographical Sales Analysis** → The map highlights key markets, showing that countries like **France**, the **United Kingdom**, and **Germany** are major sources of sales revenue[cite: 19, 35, 28].
+* **Sales Trends Over Time** → The line chart tracks the number of orders from 2017 to 2020, revealing a general upward trend and a significant peak in late 2020[cite: 54, 65, 66, 67, 68].
+* **Regional Performance** → The pie chart indicates that the **Central region** is responsible for the majority of the quantity sold, accounting for over 55%[cite: 25, 41, 43].
 
 🔹 **Why It’s Useful**
 
