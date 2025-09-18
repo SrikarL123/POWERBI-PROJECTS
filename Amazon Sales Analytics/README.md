@@ -33,7 +33,10 @@ This visualization enables:
 To make this project accessible and reusable, I’ve added the following files:
 
 Amazon Sales Analytics.pbix → The original Power BI report file.
+
 Amazon Sales Analytics.pdf → Exported version of the dashboard for quick viewing.
+
 Amazon Sales Analytics.png → Dashboard screenshot for README display.
+
 Amazon Sales Sample.xlsx → The dataset (Excel file) used to build the dashboard.
 
