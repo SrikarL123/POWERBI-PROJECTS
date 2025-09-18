@@ -1,5 +1,5 @@
 
-##📊 Titanic Loss Dashboard
+## 📊 Titanic Loss Dashboard
 
  **Problem It Solves**
 
