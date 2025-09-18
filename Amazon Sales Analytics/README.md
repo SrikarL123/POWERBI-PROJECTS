@@ -1,42 +1,38 @@
-📊 Amazon Sales Analytics – Power BI Dashboard
 
-🔹 Problem It Solves
+📊 **HR Analytics for Attrition – Power BI Dashboard**
 
-Businesses often deal with 'large, unstructured sales data' spread across products, categories, 
-time periods, and regions. Manually analyzing this data can be:
+🔹 **Problem It Solves**
 
-* Time-consuming – filtering through thousands of orders.
-* Confusing – hard to spot trends and profitable categories.
-* Inefficient – decision-making suffers without quick insights.
+Companies frequently struggle with employee turnover (attrition), which leads to high recruitment costs, loss of knowledge, and reduced productivity. Understanding *why* and *where* attrition is happening from raw HR data is often:
 
-This dashboard solves that problem by transforming raw Amazon sales data into 'actionable insights'.
+* **Complex** – Data is spread across employee profiles, departments, and roles.
+* **Time-Consuming** – Manually identifying trends in spreadsheets is slow and inefficient.
+* **Reactive** – Without clear insights, management can only react to turnover, not prevent it.
 
-🔹 Key Insights from the Dashboard
+This dashboard solves these issues by transforming complex employee data into a clear, interactive visual summary, enabling proactive and data-driven retention strategies.
 
-* Sales & Profit KPIs → Track total orders, revenue, and profitability at a glance.
-* Sales Trends Over Time → Identify seasonal peaks, promotional impacts, or sales drops.
-* Category Analysis → See which product categories (e.g., Chairs, Phones, Tables) generate the highest sales.
-* Regional Profitability → Find which states drive the most profit (e.g., California dominates).
-* Performance vs Target → Compare actual sales against a benchmark/target.
+🔹 **Key Insights from the Dashboard**
 
-🔹 Why It’s Useful
+* **Attrition KPIs** → Instantly view key metrics like total employees, the number of attritions, and the overall attrition rate (e.g., 15.7% in the R&D department).
+* **High-Risk Roles** → The "Sum of Attrition by Job Role" chart clearly identifies the specific roles with the highest turnover, such as Sales Executive and Research Scientist.
+* **Departmental Hotspots** → The dashboard allows filtering by department (Sales, R&D, HR), revealing which parts of the business are most affected. For example, the attrition rate in HR (30.2%) is nearly double that of R&D (15.7%).
+* **Demographic Analysis** → Understand attrition patterns across different age groups, genders, and educational backgrounds to spot underlying trends.
+* **Tenure Insights** → The "Average Years worked in Company" metric helps quantify the experience level being lost.
 
-This visualization enables:
+🔹 **Why It’s Useful**
 
-* Business managers to make data-driven decisions.
-* Marketing teams to focus on profitable products/regions.
-* Inventory teams to forecast demand more accurately.
-* Executives to quickly monitor company performance without going through raw data.
+This visualization empowers different stakeholders to take targeted action:
 
-🔹 Files Included in this Repository
+* **HR Managers** can identify the root causes of turnover and develop focused retention programs.
+* **Department Heads** can monitor the health of their teams and address role-specific issues.
+* **Executives** can get a high-level overview of workforce stability and its financial impact.
+* **Recruitment Teams** can anticipate hiring needs for high-turnover positions.
 
-To make this project accessible and reusable, I’ve added the following files:
+🔹 **Files Included in this Repository**
 
-Amazon Sales Analytics.pbix → The original Power BI report file.
+Based on the dashboard provided, a complete project repository would likely include:
 
-Amazon Sales Analytics.pdf → Exported version of the dashboard for quick viewing.
-
-Amazon Sales Analytics.png → Dashboard screenshot for README display.
-
-Amazon Sales Sample.xlsx → The dataset (Excel file) used to build the dashboard.
-
+* **HR Attrition Analytics.pbix** → The original, interactive Power BI report file.
+* **HR Attrition Analytics.pdf** → An exported, static version of the dashboard for sharing.
+* **HR Attrition Analytics.png** → Screenshots of the dashboard, like the ones provided.
+* **Employee Attrition Data.xlsx** → The dataset used to build the dashboard.
