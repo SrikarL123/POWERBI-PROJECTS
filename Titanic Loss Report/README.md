@@ -36,7 +36,7 @@ This visualization serves several purposes:
 
 A project repository for this dashboard would typically include:
 
-* **Titanic Loss Analysis.pbix** → The original Power BI report file.
-* **Titanic Loss Analysis.pdf** → A static, exported version of the dashboard for sharing.
-* **Titanic Loss Analysis.png** → A screenshot image of the final dashboard.
-* **Titanic Passenger Data.xlsx** → The Excel dataset containing the passenger manifest.
+* **Titanic loss report.pbix** → The original Power BI report file.
+* **Titanic loss.pdf** → A static, exported version of the dashboard for sharing.
+* **Titanic loss.png** → A screenshot image of the final dashboard.
+* **Titanic loss.xls** → The Excel dataset containing the passenger manifest.
