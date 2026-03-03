@@ -31,7 +31,8 @@ This visualization tool empowers various teams to improve performance:
 
 To build this project, two separate datasets were used. A complete repository would include:
 
-* **European Sales Dashboard.pbix** → The original, interactive Power BI report file.
-* **European Sales Dashboard.pdf** → A static export of the dashboard for easy viewing.
+* **sales report.pbix** → The original, interactive Power BI report file.
+* **sales report.pdf** → A static export of the dashboard for easy viewing.
+* **Sales report.png** → A static image of the dashboard for easy viewing.
 * **Sales data.xlsx** → The primary dataset containing all transactional sales information.
 * **Category.xlsx** → A supporting dataset used to define the product categories.
